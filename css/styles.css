@@ -1,0 +1,120 @@
+/* ===========GLOBAL STYLES========== */
+
+/* HEADER STYLES */
+
+/* MAIN BODY STYLES */
+
+/* FOOTER STYLES */
+
+/* @import url(https//fpmts) */
+
+
+
+
+
+
+
+*{
+	box-sizing: border-box;
+}
+
+
+body{
+
+	margin: 0;
+	background-image:url("http://static5.depositphotos.com/1030740/445/v/950/depositphotos_4458086-Technology-theme-vector-background.jpg");
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-size: 1350px 900px;
+	
+}
+
+.title{
+	text-align: center;
+}
+
+.graphic1{
+	width: 80px;
+	height: 80px;
+}
+.box1{
+	background-color: white;
+	font-size:26px;
+	width: 250px;
+	margin: 20px ;
+	height: 60px;
+	padding: 5px;
+	float: left;
+}
+.box2{
+	background-color: white;
+	font-size:26px;
+	width: 450px;
+	margin: 20px;
+	height: 60px;
+	padding: 5px;
+	float: left;
+}
+
+.box3{
+	background-color: white;
+	font-size:26px;
+	width: 200px;
+	margin: 20px;
+	height: 60px;
+	padding: 5px;
+	float: left;
+}
+.box4{
+	background-color: white;
+	font-size:26px;
+	width: 200px;
+	margin: 20px;
+	height: 60px;
+	padding: 5px;
+	float: left;
+}
+
+iframe{
+	position: absolute;
+	right: 150px;
+	top:300;
+}
+.box5 {
+	
+	font-size:40px;
+	width: 200px;
+	margin: 20px;
+	height: 60px;
+	padding: 5px;
+	position: absolute;
+	left: 200px;
+    top: 220px;
+
+}
+.container{
+	width: 1000px;
+	border-left: 1px solid grey;
+	border-right: 1px solid grey;
+	background-color: white;
+	height:100px;
+	margin: 0 auto;
+	overflow: hidden;
+
+
+
+
+}
+
+.bg {
+	width: 700px;
+	height: 300px;
+	background-image: url('http://static.vecteezy.com/system/resources/previews/000/084/251/original/christmas-bokeh-vector-background.jpg');
+	padding: 15px;
+background-repeat: left top;
+
+background-color: #fafafa;
+background-size: cover;
+
+
+}
